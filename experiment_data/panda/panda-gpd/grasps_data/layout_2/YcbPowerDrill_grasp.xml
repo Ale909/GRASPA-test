@@ -69,7 +69,7 @@
     <Grasp name="Grasp 4" quality="1"/>
   </Grasped>
   <GraspStability>
-    <Grasp name="Grasp 0" quality="0.75"/>
+    <Grasp name="Grasp 0" quality="1.0"/>
     <Grasp name="Grasp 1" quality="1.0"/>
     <Grasp name="Grasp 2" quality="1.0"/>
     <Grasp name="Grasp 3" quality="1.0"/>
